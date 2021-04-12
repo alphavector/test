@@ -1,0 +1,4660 @@
+{
+    "type": "FeatureCollection",
+    "name": "stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 1,
+                "stop_name": "Хранилище \"Лебяжье\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.08965757668112,
+                    69.36471778188222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 2,
+                "stop_name": "Хранилище \"Лебяжье\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.087644214860745,
+                    69.365150955596164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 3,
+                "stop_name": "Гараж"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.071548803759271,
+                    69.368427539491464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 4,
+                "stop_name": "Гараж"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.071987939286075,
+                    69.368311841660727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 5,
+                "stop_name": "Гидроэлектромонтаж"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.066040079010719,
+                    69.371476991294685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 6,
+                "stop_name": "Гидроэлектромонтаж"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.065791635322398,
+                    69.37176712018794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 7,
+                "stop_name": "поселок Купец"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.056439999223841,
+                    69.372043466505417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 8,
+                "stop_name": "поселок Купец"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.055970431572135,
+                    69.371987481840179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 9,
+                "stop_name": "Насосная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.039851963419011,
+                    69.352088344992424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 10,
+                "stop_name": "Насосная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.038879940141413,
+                    69.351652380844257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 11,
+                "stop_name": "Брызгалы"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.006261960970591,
+                    69.328304236069712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 12,
+                "stop_name": "Брызгалы"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.005855419166011,
+                    69.32818403040325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 13,
+                "stop_name": "ЦБК"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.978853121879482,
+                    69.328271699221176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 14,
+                "stop_name": "Пождепо"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.977245311507303,
+                    69.318847957596063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 15,
+                "stop_name": "Стройбаза"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.968306408366914,
+                    69.316736705670124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 16,
+                "stop_name": "Стройбаза"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.967510141369061,
+                    69.316645316612494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 17,
+                "stop_name": "Хвосты"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.925029066584486,
+                    69.320063210076995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 18,
+                "stop_name": "Хвосты"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.922611900710891,
+                    69.320897255888724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 19,
+                "stop_name": "Очистные"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.916720237928047,
+                    69.322062786091251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 20,
+                "stop_name": "Очистные"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.913882311186143,
+                    69.322232784647966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 21,
+                "stop_name": "Далдыкан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.871279886211028,
+                    69.329706292197471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 22,
+                "stop_name": "Далдыкан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.872096783481609,
+                    69.329559220718679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 23,
+                "stop_name": "Каларгон"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.802902093693717,
+                    69.339899605971141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 24,
+                "stop_name": "Каларгон"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.803304569275042,
+                    69.339764286825215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 25,
+                "stop_name": "завод \"Тисма\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.978396593758632,
+                    69.319128247122421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 26,
+                "stop_name": "Амбарная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.521589141495454,
+                    69.376828071630925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 27,
+                "stop_name": "Амбарная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.518946282010319,
+                    69.376807004633065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 28,
+                "stop_name": "Перекресток"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.370401527546107,
+                    69.373917169095961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 29,
+                "stop_name": "Перекресток"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.369272486333614,
+                    69.373611086843297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 30,
+                "stop_name": "Аэропорт \"Норильск\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.341208048055222,
+                    69.325157099480563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 31,
+                "stop_name": "Ж.д. переезд"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.38153078040655,
+                    69.465553688742006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 32,
+                "stop_name": "Ж.д. переезд"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.382205876062883,
+                    69.465068631366009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 33,
+                "stop_name": "турбаза \"Березка\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.376304371265007,
+                    69.455870018326564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 34,
+                "stop_name": "турбаза \"Березка\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.37662461532058,
+                    69.45618351515445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 35,
+                "stop_name": "турбаза \"Спортивная\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.367041694200012,
+                    69.451085811480354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 36,
+                "stop_name": "турбаза \"Спортивная\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.3675350337315,
+                    69.451234789036377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 37,
+                "stop_name": "турбаза \"Жарки\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.360130714997624,
+                    69.44470499679926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 38,
+                "stop_name": "турбаза \"Жарки\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.360520496382364,
+                    69.444852107662498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 39,
+                "stop_name": "турбаза \"Надежда\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.342034613651776,
+                    69.435291617554498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 40,
+                "stop_name": "турбаза \"Надежда\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.343272418466,
+                    69.436011404405363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 41,
+                "stop_name": "турбаза \"Голубые озера\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.329728698719933,
+                    69.428336949453978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 42,
+                "stop_name": "турбаза \"Голубые озера\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.330336884368009,
+                    69.428609656380246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 43,
+                "stop_name": "Водозабор"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.310957576620424,
+                    69.421150422299533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 44,
+                "stop_name": "Водозабор"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.311698624930216,
+                    69.421426293935269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 45,
+                "stop_name": "Мост"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.292903420169537,
+                    69.413671997457612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 46,
+                "stop_name": "Мост"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.292184428143514,
+                    69.413181921478156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 47,
+                "stop_name": "Промхоз"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.29432803397917,
+                    69.408861972789055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 48,
+                "stop_name": "Промхоз"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.293160245436709,
+                    69.409479546721869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 49,
+                "stop_name": "Гараж"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.299522664965664,
+                    69.406309621641384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 50,
+                "stop_name": "Гараж"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.300031754732643,
+                    69.406112229597909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 51,
+                "stop_name": "поселок Валек"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.308459813558954,
+                    69.402566787020518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 52,
+                "stop_name": "поселок Валек"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.30976967510027,
+                    69.401978413437575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 53,
+                "stop_name": "турбаза \"Лазурная\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.333388725900377,
+                    69.394747846109183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 54,
+                "stop_name": "турбаза \"Лазурная\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.332195525506535,
+                    69.395472388123835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 55,
+                "stop_name": "турбаза \"Сияние\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.338854199072998,
+                    69.391618454876919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 56,
+                "stop_name": "турбаза \"Сияние\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.339193179026154,
+                    69.391476254063164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 57,
+                "stop_name": "Профилакторий"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.350517133880913,
+                    69.386139184049199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 58,
+                "stop_name": "Профилакторий"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.349337519288213,
+                    69.386471050673165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 59,
+                "stop_name": "Гидропорт \"Валек\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.364451987243825,
+                    69.395343861060013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 60,
+                "stop_name": "лыжная база \"Оль-гуль\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.336096999099794,
+                    69.376676769156745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 61,
+                "stop_name": "лыжная база \"Оль-гуль\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.337485804329901,
+                    69.377083861133229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 62,
+                "stop_name": "Наледная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.316559488164728,
+                    69.368874165976337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 63,
+                "stop_name": "Наледная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.319585930546083,
+                    69.370524560888271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 64,
+                "stop_name": "ГРС"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.272203421398174,
+                    69.352169528278736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 65,
+                "stop_name": "ГРС"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.27272032064937,
+                    69.352426345509869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 66,
+                "stop_name": "Совхоз"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.265814512078336,
+                    69.34740465347592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 67,
+                "stop_name": "Совхоз"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.267619669409513,
+                    69.347980792892045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 68,
+                "stop_name": "Инспекция рыбоохраны"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.241079398252865,
+                    69.340271026931717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 69,
+                "stop_name": "Вальковское шоссе"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.230280233980864,
+                    69.337826404314981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 70,
+                "stop_name": "Вальковское шоссе"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.231898943511709,
+                    69.338173264927562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 71,
+                "stop_name": "Газоспасательная служба"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.241903169530019,
+                    69.340418893538072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 72,
+                "stop_name": "турбаза \"Робинзон\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.336489132231833,
+                    69.432543859027675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 73,
+                "stop_name": "ГТП"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.099386739496751,
+                    69.358588368992855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 74,
+                "stop_name": "ГТП"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.098603667621319,
+                    69.358394959083626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 75,
+                "stop_name": "Торгмонтаж"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.09314454943781,
+                    69.356797546003392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 76,
+                "stop_name": "Торгмонтаж"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.091284719334823,
+                    69.357007830795098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 77,
+                "stop_name": "завод \"Стройкомплект\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.078214201926286,
+                    69.357697727914697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 78,
+                "stop_name": "Управление комбината"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.209974135830819,
+                    69.3433306775988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 79,
+                "stop_name": "Музей"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.206483881269435,
+                    69.346273477119013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 80,
+                "stop_name": "Авиакассы"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.203313323225274,
+                    69.34800054554934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 81,
+                "stop_name": "улица Московская"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.197380292989621,
+                    69.351230925128718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 82,
+                "stop_name": "улица Ленинградская"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.191950074658266,
+                    69.354188813129525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 83,
+                "stop_name": "Ленинский проспект"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.187634461731093,
+                    69.356539829763861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 84,
+                "stop_name": "магазин \"Енисей\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.210873811971922,
+                    69.34414540164228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 85,
+                "stop_name": "кафе \"Поляна\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.186915769779958,
+                    69.35656368777569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 86,
+                "stop_name": "магазин \"Северок\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.1927467,
+                    69.3533872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 87,
+                "stop_name": "улица Дзержинского"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.195021519152817,
+                    69.352147836837105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 88,
+                "stop_name": "бульвар Влюбленных"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.199409108360797,
+                    69.349757201769592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 89,
+                "stop_name": "Аптека"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.202653882816179,
+                    69.347986656974868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 90,
+                "stop_name": "Художественный салон"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.208739366828539,
+                    69.344668772646045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 91,
+                "stop_name": "Гвардейская площадь"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.209287642308368,
+                    69.343057905590868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 92,
+                "stop_name": "Ленинский проспект д. 33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.191479530045342,
+                    69.3540775555023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 93,
+                "stop_name": "универмаг \"Талнах\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.209686769124303,
+                    69.3439127450347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 94,
+                "stop_name": "улица Первомайская д. 26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.751061100604517,
+                    69.354729496963998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 95,
+                "stop_name": "Пождепо"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.757307404937023,
+                    69.356974277682994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 96,
+                "stop_name": "улица Первомайская д. 17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.746211840692553,
+                    69.353649108687719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 97,
+                "stop_name": "улица Первомайская д. 7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.743705554819613,
+                    69.352306019427971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 98,
+                "stop_name": "АБК механического завода"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.211463059643222,
+                    69.31952424384481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 99,
+                "stop_name": "АБК механического завода"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.211533075544239,
+                    69.319997820379484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 100,
+                "stop_name": "Норильский промышленный транспорт"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.216166889706159,
+                    69.323680483704152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 101,
+                "stop_name": "площадь Газовиков"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.193838833089089,
+                    69.362510074892413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 102,
+                "stop_name": "Плавильный цех"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.21596429698765,
+                    69.31477735489095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 103,
+                "stop_name": "Молокозавод"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.170769601473239,
+                    69.366827281715828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 104,
+                "stop_name": "УАДиС"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.178894168666204,
+                    69.320129346948718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 105,
+                "stop_name": "УТВГС"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.233844430111617,
+                    69.330108914720327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 106,
+                "stop_name": "Автохозяйство"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.227174252539157,
+                    69.332074612136964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 107,
+                "stop_name": "Автохозяйство"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.227365814382651,
+                    69.33200260229998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 108,
+                "stop_name": "рудник \"Маяк\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.418126737646631,
+                    69.486779052028595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 109,
+                "stop_name": "РМЦ-2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.968458800563639,
+                    69.319547482488275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 110,
+                "stop_name": "АБК \"Южный\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.963508970641513,
+                    69.321608390271066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 111,
+                "stop_name": "ТОФ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.374750738359097,
+                    69.503779910936316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 114,
+                "stop_name": "База № 2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.384238272182614,
+                    69.501328889938492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 115,
+                "stop_name": "База № 2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.384420476704705,
+                    69.501288580751861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 116,
+                "stop_name": "рудник \"Комсомольский\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.396096625188264,
+                    69.500390379459546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 117,
+                "stop_name": "рудник \"Комсомольский\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.395066253775298,
+                    69.500437989186295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 118,
+                "stop_name": "Трест"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.40436722938118,
+                    69.4979324402168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 119,
+                "stop_name": "рудник \"Таймырский\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.353238811873027,
+                    69.531181741304422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 120,
+                "stop_name": "Гараж"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.337446936514311,
+                    69.533808447873824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 121,
+                "stop_name": "Гараж"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.337034806260547,
+                    69.533880692285052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 122,
+                "stop_name": "ВЗС"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.32902630762392,
+                    69.534861742820112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 123,
+                "stop_name": "ВЗС"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.328597723974681,
+                    69.534948936366462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 124,
+                "stop_name": "Поворот"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.310595021927028,
+                    69.530110065347259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 125,
+                "stop_name": "Поворот"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.310478099884662,
+                    69.529794128721178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 126,
+                "stop_name": "рудник \"Октябрьский\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.33462902052068,
+                    69.523962237805833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 127,
+                "stop_name": "ТЭЦ-2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.335756120537809,
+                    69.518455717580281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 128,
+                "stop_name": "ТЭЦ-2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.335497733833321,
+                    69.518704422765325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 129,
+                "stop_name": "ВЭМ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.341322839943288,
+                    69.514287187318061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 130,
+                "stop_name": "ВЭМ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.341749363110864,
+                    69.513897967335382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 131,
+                "stop_name": "Очистные"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.359258591222755,
+                    69.50210569013089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 132,
+                "stop_name": "Очистные"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.360224470165335,
+                    69.501709241884569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 133,
+                "stop_name": "Хлебозавод"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.223619305346404,
+                    69.338383320782853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 134,
+                "stop_name": "Институт"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.215987327039826,
+                    69.340255289885661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 135,
+                "stop_name": "Детская больница"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.21635640393518,
+                    69.340201771240814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 136,
+                "stop_name": "улица Бауманская"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.373644853259421,
+                    69.493302080959964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 137,
+                "stop_name": "улица Бауманская"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.372693505061804,
+                    69.493622622372214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 138,
+                "stop_name": "Школа № 30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.380167426100044,
+                    69.491136090054638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 139,
+                "stop_name": "Школа № 30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.379228157771365,
+                    69.491663859939663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 140,
+                "stop_name": "Детская поликлиника"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.388710565921969,
+                    69.491562582175987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 141,
+                "stop_name": "Детская поликлиника"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.388246743124114,
+                    69.491389262918887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 142,
+                "stop_name": "улица Бегичева"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.175332713326554,
+                    69.363642126888081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 143,
+                "stop_name": "проезд Котульского"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.183776201116373,
+                    69.363004507128011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 144,
+                "stop_name": "магазин \"Жар птица\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.187078153829077,
+                    69.362914662865421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 145,
+                "stop_name": "Детская поликлиника"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.179132242447309,
+                    69.363517655403498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 146,
+                "stop_name": "турбаза \"Оганер\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.343164622964551,
+                    69.364858250812532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 147,
+                "stop_name": "турбаза \"Оганер\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.344742793273582,
+                    69.364603989415031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 148,
+                "stop_name": "Магазин"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.358780624909642,
+                    69.357723458886284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 149,
+                "stop_name": "Магазин"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.359716921069108,
+                    69.357049341521403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 150,
+                "stop_name": "Перекресток"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.320332591231434,
+                    69.369456282137662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 151,
+                "stop_name": "Наледная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.32060303806314,
+                    69.369399674968179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 152,
+                "stop_name": "улица Вокзальная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.144996270675605,
+                    69.35696997929692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 153,
+                "stop_name": "улица Вокзальная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.144063735340055,
+                    69.356964700859137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 154,
+                "stop_name": "Управление НЖД"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.138901326194912,
+                    69.357429311888879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 155,
+                "stop_name": "Управление НЖД"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.137594672357906,
+                    69.357625903893194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 156,
+                "stop_name": "Медный завод"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.130277095721283,
+                    69.358525033544112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 157,
+                "stop_name": "Медный завод"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.130261789150964,
+                    69.358555557611083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 158,
+                "stop_name": "Металлургический цех"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.118328441897063,
+                    69.359575435572097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 159,
+                "stop_name": "Металлургический цех"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.117421432083077,
+                    69.359722914067177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 160,
+                "stop_name": "АЗС"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.102067680287917,
+                    69.362179293559436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 161,
+                "stop_name": "Воинская часть"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.097048477399227,
+                    69.363216221825738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 162,
+                "stop_name": "Переезд"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.111105395297912,
+                    69.360512537748491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 163,
+                "stop_name": "Переезд"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.109804254916824,
+                    69.360709637649393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 164,
+                "stop_name": "Ритуальный зал"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.239160449418748,
+                    69.354564674942651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 165,
+                "stop_name": "Илан-Норильск"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.228480329453575,
+                    69.352098984255292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 166,
+                "stop_name": "Илан-Норильск"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.22770171086826,
+                    69.351986012643209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 167,
+                "stop_name": "рудник \"Заполярный\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.158681630951932,
+                    69.306053262716745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 168,
+                "stop_name": "НОФ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.165546278216354,
+                    69.309122571466091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 169,
+                "stop_name": "НОФ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.166812199673046,
+                    69.309604784713741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 170,
+                "stop_name": "улица Горная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.177344580825903,
+                    69.313733841575356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 171,
+                "stop_name": "улица Горная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.179025422297912,
+                    69.314011081915908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 172,
+                "stop_name": "0 пикет"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.188749858951937,
+                    69.317691462140928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 173,
+                "stop_name": "0 пикет"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.18818245795029,
+                    69.317312855574343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 174,
+                "stop_name": "АТО ЦАТК"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.178579594496284,
+                    69.32414722094164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 175,
+                "stop_name": "АТО ЦАТК"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.180488776939626,
+                    69.323882990193979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 176,
+                "stop_name": "АТС"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.391591226614651,
+                    69.495130329406877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 177,
+                "stop_name": "улица Енисейская"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.393480244686572,
+                    69.49411492614334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 178,
+                "stop_name": "Гараж"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.1857409618638,
+                    69.322135161879956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 179,
+                "stop_name": "ОВЦ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.22252289273861,
+                    69.316799661438395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 180,
+                "stop_name": "Механический завод"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.214104861794766,
+                    69.316944430422197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 181,
+                "stop_name": "Механический завод"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.213796762039507,
+                    69.31691701095319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 182,
+                "stop_name": "ЦООП"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.234099869923924,
+                    69.310077256840444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 183,
+                "stop_name": "Бутовый"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.258755997083412,
+                    69.314564933077222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 184,
+                "stop_name": "Бутовый"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.256319507370122,
+                    69.313788028195475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 185,
+                "stop_name": "ХКЦ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.25966338075456,
+                    69.316182514245284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 186,
+                "stop_name": "ХКЦ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.259526961704779,
+                    69.316342590168205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 187,
+                "stop_name": "Кирпичный завод"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.257556501064201,
+                    69.320546082991356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 188,
+                "stop_name": "Кирпичный завод"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.257618690227886,
+                    69.320526171386021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 189,
+                "stop_name": "Цементный завод"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.249671394426201,
+                    69.321682752211899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 190,
+                "stop_name": "Цементный завод"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.24855222476279,
+                    69.321769864138247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 191,
+                "stop_name": "Утильбаза"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.243694714840714,
+                    69.322039994932695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 192,
+                "stop_name": "Утильбаза"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.244608520798081,
+                    69.322001502943138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 193,
+                "stop_name": "Насосная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.226360298477445,
+                    69.322383125487235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 194,
+                "stop_name": "Насосная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.226874217952229,
+                    69.322526263316206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 195,
+                "stop_name": "Норильсктрансремонт"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.219077875548237,
+                    69.322170878950018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 196,
+                "stop_name": "Норильсктрансремонт"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.218726860665768,
+                    69.322143565765487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 197,
+                "stop_name": "Рудоуправление"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.193730301827657,
+                    69.318727092066652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 198,
+                "stop_name": "Рудоуправление"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.194426687504318,
+                    69.318553458651436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 199,
+                "stop_name": "улица Заводская"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.204282973173335,
+                    69.316959939713172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 200,
+                "stop_name": "улица Игарская"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.360767573640018,
+                    69.495706176822765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 201,
+                "stop_name": "улица Игарская"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.360885003070649,
+                    69.496147003636807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 202,
+                "stop_name": "улица Дудинская"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.365648536539055,
+                    69.493946162080789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 203,
+                "stop_name": "улица Дудинская"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.36433811029201,
+                    69.493982500061833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 204,
+                "stop_name": "Поликлиника"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.211404748728924,
+                    69.349359690013159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 205,
+                "stop_name": "Школа № 1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.204873867701878,
+                    69.341633022979565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 206,
+                "stop_name": "Школа № 1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.205365156531499,
+                    69.342253786519706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 207,
+                "stop_name": "Дворец культуры"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.205355962340235,
+                    69.344237600340449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 208,
+                "stop_name": "Школа № 6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.198516438680144,
+                    69.346344579141302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 209,
+                "stop_name": "Норильский почтамт"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.191147648752647,
+                    69.34835461258146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 210,
+                "stop_name": "Норильский почтамт"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.189341122436744,
+                    69.349457991662405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 211,
+                "stop_name": "улица Комсомольская"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.183633844935017,
+                    69.352352849146882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 212,
+                "stop_name": "улица Комсомольская"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.181494308728574,
+                    69.353746597309154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 213,
+                "stop_name": "Городской парк"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.193838934020008,
+                    69.346854615897868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 214,
+                "stop_name": "улица Кравца"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.386712225988703,
+                    69.48092035425357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 215,
+                "stop_name": "улица Красноярская"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.174115183489548,
+                    69.356794077993499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 216,
+                "stop_name": "улица Красноярская"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.173785283893949,
+                    69.356454759617762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 217,
+                "stop_name": "улица Лауреатов д. 85"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.201606293876452,
+                    69.362229239078673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 218,
+                "stop_name": "магазин \"Эльдорадо\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.206430345026618,
+                    69.359646222486589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 219,
+                "stop_name": "магазин \"Эльдорадо\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.206669356493535,
+                    69.35946622078346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 220,
+                "stop_name": "магазин \"Океан\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.213326749049813,
+                    69.355882131873443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 221,
+                "stop_name": "магазин \"Океан\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.214384540025804,
+                    69.355048402402801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 222,
+                "stop_name": "Тубдиспансер"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.200624986565884,
+                    69.362814269008879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 223,
+                "stop_name": "Поликлиника"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.395087785889288,
+                    69.489926806563687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 224,
+                "stop_name": "Школа № 20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.387996438000584,
+                    69.486450444190226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 225,
+                "stop_name": "Школа № 20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.389916499021709,
+                    69.487076266536377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 226,
+                "stop_name": "улица Набережная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.1729564,
+                    69.348445400000017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 227,
+                "stop_name": "Дворец спорта \"Арктика\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.197862917048298,
+                    69.342476541321616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 228,
+                "stop_name": "Поликлиника"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.761300565216175,
+                    69.352275275047219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 229,
+                "stop_name": "АДЦ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.170077452658987,
+                    69.359554167437011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 230,
+                "stop_name": "АДЦ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.170324285562742,
+                    69.359187646745269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 231,
+                "stop_name": "АДЦ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.16843381182737,
+                    69.359332094984566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 232,
+                "stop_name": "АДЦ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.167232529971116,
+                    69.359770410598244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 233,
+                "stop_name": "Пождепо"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.174371770501011,
+                    69.366012303197252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 234,
+                "stop_name": "Пождепо"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.174609865733458,
+                    69.366278320458449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 235,
+                "stop_name": "улица Нансена"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.167188944469601,
+                    69.354064286183885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 236,
+                "stop_name": "улица Нансена"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.167579321494742,
+                    69.354577195462113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 237,
+                "stop_name": "Зубгора"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.165283096957495,
+                    69.350488466008315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 238,
+                "stop_name": "Зубгора"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.165337896436071,
+                    69.350732039949904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 239,
+                "stop_name": "Нефтебаза"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.17235721255463,
+                    69.328930673748729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 240,
+                "stop_name": "Складское хозяйство"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.184734865286487,
+                    69.331419247763804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 241,
+                "stop_name": "улица Рудная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.402559305792465,
+                    69.497789723306212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 242,
+                "stop_name": "улица Новая"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.392022625452057,
+                    69.499120416987324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 243,
+                "stop_name": "Оганер-комплекс"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.365547862433317,
+                    69.356175064812945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 244,
+                "stop_name": "Оганер-комплекс"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.366190918980692,
+                    69.356085932393469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 245,
+                "stop_name": "улица Озерная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.372408660456088,
+                    69.357570573290445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 246,
+                "stop_name": "улица Озерная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.372114835038019,
+                    69.357287577402573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 247,
+                "stop_name": "Пождепо"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.384030559497347,
+                    69.358568164060259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 248,
+                "stop_name": "Пождепо"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.384254823417521,
+                    69.358361916567134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 249,
+                "stop_name": "Городская больница № 1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.410247001083931,
+                    69.358282522619447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 250,
+                "stop_name": "АБК \"НПОПАТ\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.203948635739508,
+                    69.309667727257633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 251,
+                "stop_name": "КИПиА"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.201185390530398,
+                    69.31303234654284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 252,
+                "stop_name": "площадь Завенягина"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.205903478817916,
+                    69.316129467206977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 253,
+                "stop_name": "площадь Завенягина"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.205824138676832,
+                    69.315805351545791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 254,
+                "stop_name": "Механический завод"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.205928384913136,
+                    69.318600990025956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 255,
+                "stop_name": "Управление главного механика"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.205971683259946,
+                    69.322402318044468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 256,
+                "stop_name": "Гараж"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.206652827358155,
+                    69.327582240066391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 257,
+                "stop_name": "Гараж"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.206468501072308,
+                    69.328784566099003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 258,
+                "stop_name": "Соцгород"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.205060599196898,
+                    69.330897729294406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 259,
+                "stop_name": "Соцгород"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.204831636213385,
+                    69.331387062022458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 260,
+                "stop_name": "ИТУ-спецстрой"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.205882291664537,
+                    69.321161181155404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 261,
+                "stop_name": "Городской центр культуры"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.189103927388359,
+                    69.359490213792611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 262,
+                "stop_name": "Городской центр культуры"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.190186202930477,
+                    69.359512615832571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 263,
+                "stop_name": "улица Орджоникидзе"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.180291977358578,
+                    69.35724151575927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 264,
+                "stop_name": "площадь Металлургов"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.181967688765596,
+                    69.357862429424841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 265,
+                "stop_name": "улица Павлова"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.21882896998693,
+                    69.349962519581737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 266,
+                "stop_name": "улица Павлова"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.218847795273945,
+                    69.35015280823832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 267,
+                "stop_name": "Больничный городок"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.210636561330759,
+                    69.348233162302037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 268,
+                "stop_name": "5 микрорайон"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.397372981789218,
+                    69.496366463763422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 269,
+                "stop_name": "улица Первопроходцев д. 13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.40222901921031,
+                    69.497229320596404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 270,
+                "stop_name": "улица Победы"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.7669476694753,
+                    69.34925654318981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 271,
+                "stop_name": "Кайеркан (ТБК)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.769086616323904,
+                    69.345274187588942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 272,
+                "stop_name": "улица Пушкина"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.217720471448132,
+                    69.343455970631638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 273,
+                "stop_name": "Насосная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.166157105870582,
+                    69.341349701302818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 274,
+                "stop_name": "Насосная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.166263453580129,
+                    69.341409662462951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 275,
+                "stop_name": "База № 2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.164954378760868,
+                    69.338792842642334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 276,
+                "stop_name": "База № 2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.164708192981436,
+                    69.338474029913385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 277,
+                "stop_name": "Кислородная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.163474681952081,
+                    69.336034416580006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 278,
+                "stop_name": "Кислородная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.163278195812765,
+                    69.335521859559293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 279,
+                "stop_name": "База № 4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.167584824123921,
+                    69.325328660610964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 280,
+                "stop_name": "База № 4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.167508035606744,
+                    69.325325808454778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 281,
+                "stop_name": "улица Рудная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.405575951784982,
+                    69.497122145622555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 282,
+                "stop_name": "улица Рудная д. 39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.409601396808299,
+                    69.492160516579148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 283,
+                "stop_name": "улица Рудная д. 39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.40952828598995,
+                    69.491855988718925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 284,
+                "stop_name": "Гараж"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.408044129215469,
+                    69.488130536907519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 285,
+                "stop_name": "Гараж"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.40831104854783,
+                    69.48805034027572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 286,
+                "stop_name": "улица Спортивная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.379672540766663,
+                    69.485782648063733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 287,
+                "stop_name": "Площадь Горняков"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.387567092704629,
+                    69.485204742082345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 288,
+                "stop_name": "Площадь Горняков"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.387636799114176,
+                    69.485080007009273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 289,
+                "stop_name": "улица Пионерская"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.377814762322942,
+                    69.486205266812036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 290,
+                "stop_name": "Талнах (Торговый центр)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.397159249134077,
+                    69.48381037379275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 291,
+                "stop_name": "Талнах (Торговый центр)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.397196931414783,
+                    69.483258645005662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 292,
+                "stop_name": "улица Строителей"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.399491138013047,
+                    69.48538069874752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 293,
+                "stop_name": "Кинотеатр"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.39357788856455,
+                    69.483982828122279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 294,
+                "stop_name": "ТБК"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.767273402524708,
+                    69.345754137796746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 295,
+                "stop_name": "ТБК"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.76736700785338,
+                    69.345634993568069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 296,
+                "stop_name": "улица Строительная"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.759628473285957,
+                    69.347279906851796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 297,
+                "stop_name": "площадь Газовиков"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.19356586944744,
+                    69.361971816558011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 298,
+                "stop_name": "улица Талнахская д. 71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.198778438319863,
+                    69.35912548915185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 299,
+                "stop_name": "магазин \"1000 мелочей\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.203807887654534,
+                    69.356381115250286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 300,
+                "stop_name": "магазин \"Подсолнух\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.208278861989044,
+                    69.353942384488164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 301,
+                "stop_name": "Корпоративный университет"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.214564533049497,
+                    69.350513528511442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 302,
+                "stop_name": "улица Талнахская"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.21961651638091,
+                    69.347757207318523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 303,
+                "stop_name": "Храм"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.224914516692792,
+                    69.344866288272172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 304,
+                "stop_name": "Центр полярной медицины"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.225671229373461,
+                    69.341681387258319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 305,
+                "stop_name": "Хлебозавод"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.224671648056557,
+                    69.337574327675313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 306,
+                "stop_name": "Хлебозавод"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.224871340965805,
+                    69.338629934429562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 307,
+                "stop_name": "улица Ветеранов"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.22601850774538,
+                    69.341424970554996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 308,
+                "stop_name": "Противопожарная служба"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.225064265654865,
+                    69.345087151289235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 309,
+                "stop_name": "улица Анисимова"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.220079827114347,
+                    69.347798377907452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 310,
+                "stop_name": "гипермаркет \"Вега\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.212783658222534,
+                    69.351790388670338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 311,
+                "stop_name": "магазин \"Сказка\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.206843734156323,
+                    69.355025832016779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 312,
+                "stop_name": "улица Ленинградская"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.201444511834865,
+                    69.357969255540027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 313,
+                "stop_name": "Художественная галерея"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.194476941463122,
+                    69.361793851470509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 314,
+                "stop_name": "улица Федоровского"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.395663704406701,
+                    69.490736349007449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 315,
+                "stop_name": "улица Федоровского д. 19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.386256535093096,
+                    69.4941034709109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 316,
+                "stop_name": "улица Федоровского д. 21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.383368983141608,
+                    69.49506744743357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 317,
+                "stop_name": "улица Федоровского д. 23"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.380236187466281,
+                    69.496100628635887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 318,
+                "stop_name": "Торговый центр"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.754229822932416,
+                    69.351376742381902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 319,
+                "stop_name": "улица Энергетическая д. 7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.211596137235773,
+                    69.325260434691828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 320,
+                "stop_name": "улица Энергетическая д. 7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.211826519920933,
+                    69.325233003163802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 321,
+                "stop_name": "улица Энергетическая"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.21672421961172,
+                    69.325571538286283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 322,
+                "stop_name": "улица Энергетическая"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.217914777691448,
+                    69.326129630193762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 323,
+                "stop_name": "Спецэнергомонтаж"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.221450179487974,
+                    69.328762243203897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 324,
+                "stop_name": "Круглое озеро"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.223081049637116,
+                    69.331904491832901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 325,
+                "stop_name": "Круглое озеро"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.223285912103066,
+                    69.333041456858282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 326,
+                "stop_name": "ТЭЦ-1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.2238785352408,
+                    69.335343704724465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 327,
+                "stop_name": "ТЭЦ-1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.224166152431991,
+                    69.335769801961732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 328,
+                "stop_name": "УВВС"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.22156916320273,
+                    69.328929744294882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 329,
+                "stop_name": "улица Энтузиастов"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.398666958425878,
+                    69.49347593455883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 330,
+                "stop_name": "улица Нансена д. 102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.172615992687312,
+                    69.363121088790635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 331,
+                "stop_name": "Центр внешкольной работы"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.383920871668053,
+                    69.481953912121298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 334,
+                "stop_name": "турбаза \"Чайка\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.323245971009555,
+                    69.425311734805845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 333,
+                "stop_name": "турбаза \"Чайка\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.321243061953069,
+                    69.424330010164809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 332,
+                "stop_name": "Нефтебаза"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.173499741753972,
+                    69.328953982772035
+                ]
+            }
+        }
+    ]
+}
