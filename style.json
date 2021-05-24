@@ -1,12 +1,16 @@
 {
     "version": 8,
     "name": "OSM Liberty",
+    "metadata": {
+        "maputnik:license": "https://github.com/nst-guide/osm-liberty-topo/blob/gh-pages/LICENSE.md",
+        "maputnik:renderer": "mbgljs"
+    },
     "sources": {
-        "yandex": {
-            "tiles": [
-                "https://core-renderer-tiles.maps.yandex.net/tiles?l=map&v=21.05.24-1-b210520094930&x={x}&y={y}&z={z}&scale=2&lang=ru_RU"
-            ],
-            "type": "raster"
+        "openmaptiles": {
+            "type": "vector",
+            "url": "https://tiles.nst.guide/openmaptiles/tile.json"
         }
-    }
+    },
+
+    "id": "osm-liberty"
 }
