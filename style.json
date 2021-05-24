@@ -6,16 +6,11 @@
         "openstreetmap": {
             "attribution": "<a target='_blank' href='https://operations.osmfoundation.org/policies/tiles'>OpenStreetMap</a>",
             "bounds": [
-                -180,
-                -85.05112877980659,
-                180,
-                85.0511287798066
-            ],
-            "center": [
-                -117.2059,
-                32.7134,
-                11
-            ],
+                -20037508.342789244,
+                -19900008.342789244,
+                20037499.342789244,
+                20077549.342789244
+              ],
             "minzoom": 0,
             "maxzoom": 30,
             "type": "raster",
