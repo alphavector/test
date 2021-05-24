@@ -1,9 +1,10 @@
 {
     "id": "",
     "version": 8,
-    "name": "yandex",
+    "name": "xyz raster sources",
     "sources": {
         "openstreetmap": {
+            "attribution": "<a target='_blank' href='https://operations.osmfoundation.org/policies/tiles'>OpenStreetMap</a>",
             "bounds": [
                 -180,
                 -85.05112877980659,
@@ -21,25 +22,25 @@
             "tiles": [
                 "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
             ]
-        },
-        "glyphs": "",
-        "sprite": "",
-        "layers": [
-            {
-                "id": "background",
-                "type": "background",
-                "paint": {
-                    "background-color": "#ffffff"
-                }
-            },
-            {
-                "id": "openstreetmap",
-                "source": "openstreetmap",
-                "type": "raster",
-                "layout": {
-                    "visibility": "visible"
-                }
+        }
+    },
+    "glyphs": "http://example.com/fonts/{fontstack}/{range}.pbf",
+    "sprite": "",
+    "layers": [
+        {
+            "id": "background",
+            "type": "background",
+            "paint": {
+                "background-color": "#ffffff"
             }
-        ]
-    }
+        },
+        {
+            "id": "openstreetmap",
+            "source": "openstreetmap",
+            "type": "raster",
+            "layout": {
+                "visibility": "visible"
+            }
+        }
+    ]
 }
