@@ -7,7 +7,7 @@
             "attribution": "<a target='_blank' href='https://operations.osmfoundation.org/policies/tiles'>OpenStreetMap</a>",
             "bounds": [
                 -20037508.342789244,
-                -19900008.342789244,
+                -19700008.342789244,
                 20037499.342789244,
                 20077549.342789244
               ],
