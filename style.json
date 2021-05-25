@@ -15,7 +15,7 @@
             "maxzoom": 30,
             "type": "raster",
             "tiles": [
-                "http://178.170.195.46:3000/yandex-map/{z}/{x}/{y}"
+                "https://hjj42.sse.codesandbox.io/yandex-map/{z}/{x}/{y}"
             ]
         }
     },
