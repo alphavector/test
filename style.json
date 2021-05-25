@@ -15,7 +15,7 @@
             "maxzoom": 30,
             "type": "raster",
             "tiles": [
-                "https://core-renderer-tiles.maps.yandex.net/tiles?l=map&v=21.05.07-0-b210423152000&x={x}&y={y}&z={z}&scale=2&lang=ru_RU"
+                "https://1d5jp.sse.codesandbox.io/yandex-map/{z}/{x}/{y}"
             ]
         }
     },
