@@ -1,25 +1,16 @@
 {
     "id": "",
     "version": 8,
-    "name": "xyz raster sources",
+    "name": "Yandex Map",
     "sources": {
-        "openstreetmap": {
-            "attribution": "<a target='_blank' href='https://operations.osmfoundation.org/policies/tiles'>OpenStreetMap</a>",
-            "bounds": [
-                -20037508.342789244,
-                -19700008.342789244,
-                20037499.342789244,
-                20077549.342789244
-              ],
-            "minzoom": 0,
-            "maxzoom": 30,
+        "yandex-map": {
             "type": "raster",
             "tiles": [
                 "https://hjj42.sse.codesandbox.io/yandex-map/{z}/{x}/{y}"
             ]
         }
     },
-    "glyphs": "http://example.com/fonts/{fontstack}/{range}.pbf",
+    "glyphs": "",
     "sprite": "",
     "layers": [
         {
@@ -30,8 +21,8 @@
             }
         },
         {
-            "id": "openstreetmap",
-            "source": "openstreetmap",
+            "id": "yandex-map",
+            "source": "yandex-map",
             "type": "raster",
             "layout": {
                 "visibility": "visible"
