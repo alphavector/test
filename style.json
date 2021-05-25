@@ -4,13 +4,15 @@
     "name": "Yandex Map",
     "sources": {
         "yandex-map": {
+            "minzoom": 0,
+            "maxzoom": 30,
             "type": "raster",
             "tiles": [
                 "https://hjj42.sse.codesandbox.io/yandex-map/{z}/{x}/{y}"
             ]
         }
     },
-    "glyphs": "",
+    "glyphs": "http://example.com/fonts/{fontstack}/{range}.pbf",
     "sprite": "",
     "layers": [
         {
