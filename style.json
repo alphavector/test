@@ -8,7 +8,7 @@
             "maxzoom": 30,
             "type": "raster",
             "tiles": [
-                "https://hjj42.sse.codesandbox.io/yandex-map/{z}/{x}/{y}"
+                "https://tiles.api-maps.yandex.ru/v1/tiles/?l=map&lang=ru_RU&scale=2&x={x}&y={y}&z={z}&projection=web_mercator&apikey=1f45c4e0-38d4-450c-aa55-9c00bfc12895"
             ]
         }
     },
